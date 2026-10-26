@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://cdn.simpleicons.org/backblaze" width="28" height="28" alt="Backblaze"/>
+  <img src="https://cdn.simpleicons.org/backblaze" width="28" height="20" alt="Backblaze"/>
   &nbsp;BACKBLAZE AWS MODERN LAKEHOUSE DATA ENGINEERING PROJECT&nbsp;
   <img src="https://cdn.simpleicons.org/backblaze" width="28" height="28" alt="Backblaze"/>
 </h1>
