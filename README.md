@@ -67,7 +67,7 @@ Historical backfill • Event-driven incremental ingestion • Apache Iceberg �
   •
   <a href="dashboard/QuickSight.png">📊 Dashboards</a>
   •
-  <a href="docs/cost_analysis.png">💸Cost Analysis of This Project</a>
+  <a href="https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data">Download Datasets</a>
 </p>
 ---
 
