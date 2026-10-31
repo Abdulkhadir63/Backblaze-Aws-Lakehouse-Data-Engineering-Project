@@ -24,7 +24,8 @@
 </td>
 
 <td align="center" width="95">
-<img src="https://jsdelivr.net" alt="AWS Wordmark" width="48" height="48"/>
+<img src="https://vectorlogo.zone" alt="AWS Logo" width="80"/>
+
 
 <br/>
 <sub><b>AWS</b></sub>
