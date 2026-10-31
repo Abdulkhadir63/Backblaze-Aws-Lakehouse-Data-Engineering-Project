@@ -24,7 +24,8 @@
 </td>
 
 <td align="center" width="95">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48"/><br/>
+<img src="https://jsdelivr.net" alt="AWS" width="48" height="48"/>
+<br/>
 <sub><b>AWS</b></sub>
 </td>
 
