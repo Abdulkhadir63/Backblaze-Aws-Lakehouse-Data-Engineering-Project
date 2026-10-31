@@ -24,9 +24,7 @@
 </td>
 
 <td align="center" width="95">
-<img src="https://vectorlogo.zone" alt="AWS Logo" width="80"/>
-
-
+<img src="https://wikimedia.org" alt="AWS Logo" width="100"/>
 <br/>
 <sub><b>AWS</b></sub>
 </td>
